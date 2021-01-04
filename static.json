@@ -1,7 +1,8 @@
 {
  "headers":{
   "/*": {
-   "X-Author": "coolberdibaev97"   
+   "X-Author": "coolberdibaev97",
+   "Access-Control-Allow-Origin": "*"
   }
  }
 }
